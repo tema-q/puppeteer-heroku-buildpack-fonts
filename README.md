@@ -1,3 +1,6 @@
+fork of https://github.com/jontewks/puppeteer-heroku-buildpack with additional fonts
+
+
 # puppeteer-heroku-buildback-fonts
 
 Heroku buildpack adding missing fonts for [jontewks/puppeteer-heroku-buildpack](https://elements.heroku.com/buildpacks/jontewks/puppeteer-heroku-buildpack)
